@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "passport-access-token@file:local-modules/passport-access-token",
+        "scope": null,
+        "escapedName": "passport-access-token",
+        "name": "passport-access-token",
+        "rawSpec": "file:local-modules/passport-access-token",
+        "spec": "/Users/Media-square/projects/sensus/api/local-modules/passport-access-token",
+        "type": "directory"
+      },
+      "/Users/Media-square/projects/sensus/api"
+    ]
+  ],
+  "_from": "local-modules/passport-access-token",
+  "_id": "passport-access-token@0.0.4",
+  "_inCache": true,
+  "_location": "/passport-access-token",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "passport-access-token@file:local-modules/passport-access-token",
+    "scope": null,
+    "escapedName": "passport-access-token",
+    "name": "passport-access-token",
+    "rawSpec": "file:local-modules/passport-access-token",
+    "spec": "/Users/Media-square/projects/sensus/api/local-modules/passport-access-token",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "file:local-modules/passport-access-token",
+  "_shasum": "34360f07594c234ae10154d6ca2db6ad1be8f410",
+  "_shrinkwrap": null,
+  "_spec": "passport-access-token@file:local-modules/passport-access-token",
+  "_where": "/Users/Media-square/projects/sensus/api",
+  "author": {
+    "name": "Martijn van Waardhuizen"
+  },
+  "dependencies": {
+    "passport-strategy": "^1.0.0"
+  },
+  "description": "Passport authentication strategy using access token for oAuth2",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "chai-passport-strategy": "^1.0.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.0.0",
+    "pkginfo": "0.2.x",
+    "sinon": "^1.0.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-access-token",
+  "name": "passport-access-token",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "0.0.4"
+}
